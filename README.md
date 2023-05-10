@@ -1,6 +1,6 @@
 # Sharma Fitness
 
-![Sharma Fitness preview](Sharma Fitness_files\images\preview.png)
+![Sharma Fitness Preview](Sharma%20Fitness_files/images/preview.png)
 
 Welcome to Sharma Fitness, the best gym in Jammu! This project is a website that provides information about the gym, allows users to navigate through various sections, and offers a form to join the gym. Get ready to achieve your fitness goals with us!
 
